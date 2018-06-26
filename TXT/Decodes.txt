@@ -1,0 +1,9 @@
+https://vk.com/away.php?to=	S
+&cc_key=			S
+%3A				:
+%2F				/
+%2f				/
+%252C				,
+%2525				%
+%5B				[
+%5D				]
